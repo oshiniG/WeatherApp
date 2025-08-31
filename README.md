@@ -6,7 +6,7 @@ Features
 
 Fetch current weather data from OpenWeather API
 
-Return weather data such as temperature, wind speed, and weather condition
+Return weather data 
 
 Provide a simple recommendation based on the weather (e.g., "Bring a coat," "Wear a hat," etc.)
 
